@@ -31,7 +31,7 @@ header    {
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("/bilder/macbook-glasses.jpg");
+    background-image: url("bilder/macbook-glasses.jpg");
     background-position: center;
     background-size: cover;
     object-fit: cover;
@@ -41,7 +41,7 @@ header    {
     /* height: 100vh; */
     display: flex;
     align-items: center;
-    background-image: url("/bilder/macbook-glasses.jpg");
+    background-image: url("bilder/macbook-glasses.jpg");
     background-position: center;
     background-size: cover;
     object-fit: cover;
